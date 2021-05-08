@@ -3,7 +3,7 @@ description: "Greet someone"
 author: "olivier renard"
 
 inputs:
-  INPUT_MY_NAME:
+  MY_NAME:
     description: "Who to greet"
     required: true
     default: "World"
